@@ -5,7 +5,7 @@ Projemizde Film veya Dizilerden bir tanesine tıkladığımızda imdb sitesine g
 ```
 <a href="https://www.imdb.com/title/tt0816711/" target="_blank">World War Z</a>
 ```
-Bu kod ayrı bir sekmede görmemizi sağlar. Eğer bu kodu eklemezsek mevcut sekmemiz üzerinden linkie tıkladığımız bağlantıyı açacaktır.
+Bu kod ayrı bir sekmede görmemizi sağlar. Eğer bu kodu eklemezsek mevcut sekmemiz üzerinden linke tıkladığımız bağlantıyı sayfamız üzerinden açacaktır.
 ```
 target="_blank
 ```
